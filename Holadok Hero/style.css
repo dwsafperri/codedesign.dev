@@ -1,0 +1,41 @@
+.body {
+  width: 100%;
+  font-family: Calibri, serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  box-shadow: 4px 4px 4px 0 #eaeaea;
+}
+
+.card {
+  width: 352px;
+  height: 352px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+nav {
+  display: flex;
+}
+
+nav img {
+  width: 40px;
+  height: 40px;
+}
+nav ul {
+  display: flex;
+  gap: 30px;
+}
+
+li {
+  list-style-type: none;
+}
+
+.img {
+  width: 40px;
+  height: 40px;
+}
+
