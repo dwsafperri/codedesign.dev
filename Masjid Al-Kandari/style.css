@@ -1,0 +1,12 @@
+nav
+.logo {
+  width: 100%;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  flex: row;
+  gap: 10px;
+  margin-left: 70%;
+}
